@@ -1,0 +1,42 @@
+{
+  "expo": {
+    "name": "Cultur",
+    "slug": "cultur",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "plugins": [
+      [
+        "expo-location",
+        {
+          "locationAlwaysAndWhenInUsePermission": "Allow Cultur to use your location."
+        }
+      ]
+    ],
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "android": {
+      "googleServicesFile": "./google-services.json",
+      "config": {
+        "googleMaps": {
+          "API_KEY_HIDDEN": "API_KEY_HIDDEN"
+        }
+      },
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.hecticplatypus3.CulturV2"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "6e41445c-7418-4423-89e0-c1e5ad43ebad"
+      }
+    }
+  }
+}

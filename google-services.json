@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "237514387487",
+    "firebase_url": "https://cultur-5ba57-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "cultur-5ba57",
+    "storage_bucket": "cultur-5ba57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237514387487:android:16bf45447e9f1321dbe52a",
+        "android_client_info": {
+          "package_name": "com.hecticplatypus3.CulturV2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237514387487-j2q751piqtlofrqq90a0ov0nee7nemsm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL_av55PsEExpjs4_K5Ymvln8iY_psLyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237514387487-j2q751piqtlofrqq90a0ov0nee7nemsm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
